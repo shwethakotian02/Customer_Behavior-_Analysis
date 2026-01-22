@@ -1,8 +1,7 @@
 # Customer_Behavior-_Analysis
 Customer Behavior Analysis project using Python, SQL, and Power BI to analyze shopping patterns and customer preferences. Python was used for data cleaning and analysis, PostgreSQL for data storage and querying, and Power BI for interactive dashboards. The project provides insights into purchasing trends and discount impact.
 
-# Customer Behavior Analysis
-# Overview
+### Overview
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.
 The main objective is to understand how customers purchase products, identify patterns in spending, and present insights in a clear and visual way that can help with business decisions.
 
